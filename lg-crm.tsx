@@ -1,0 +1,1 @@
+// El código de este archivo fue migrado a src/CRM.tsx
